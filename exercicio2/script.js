@@ -1,6 +1,7 @@
+//VARIAVEIS EXERCICIO 2
 let a = 32;
 let b = 3 ;
-let c = ;
+let c = null;
 
 console.log ("variavel a é",a);
 console.log ("variavel b é",b);
